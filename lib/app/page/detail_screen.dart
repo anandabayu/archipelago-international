@@ -198,7 +198,10 @@ class _DetailScreenState extends State<DetailScreen> {
                     )
                   ],
                 ),
-                AppButton(title: "Select Room"),
+                AppButton(
+                  title: "Select Room",
+                  onTap: () {},
+                ),
               ],
             ),
           ),
