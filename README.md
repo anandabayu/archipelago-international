@@ -16,3 +16,13 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshot
+
+### Android
+
+<img src="https://github.com/anandabayu/archipelago-international/blob/master/screenshot/android-home.png?raw=true" width="128"/>
+<img src="https://github.com/anandabayu/archipelago-international/blob/master/screenshot/android-detail.png?raw=true" width="128"/>
+
+### IOS
+
+<img src="https://github.com/anandabayu/archipelago-international/blob/master/screenshot/ios-home.png?raw=true" width="128"/>
+<img src="https://github.com/anandabayu/archipelago-international/blob/master/screenshot/ios-detail.png?raw=true" width="128"/>
